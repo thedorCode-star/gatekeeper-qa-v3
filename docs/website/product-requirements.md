@@ -172,6 +172,13 @@ Outstanding decisions must be documented and assessed before affected functional
 
 ## 15. Acceptance and Approval
 
-This PRD is in initial development baseline as approved, with outstanding decisions tracked as release dependencies.
+
+The Product Owner approved PRD v0.1 as the initial
+development baseline on 2026-10-10.
+
+Outstanding decisions remain tracked as release
+dependencies and must be resolved before the affected
+functionality is released.
+
 
 Requirements will be reviewed before Jira implementation stories are finalized. Implementation and testing evidence will be linked through the requirements traceability process.
